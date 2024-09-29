@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui_GridDemoPage", "Maui_GridDemoPage\Maui_GridDemoPage.csproj", "{7237A411-1D9D-4B3E-8B5D-B81561D63BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7237A411-1D9D-4B3E-8B5D-B81561D63BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7237A411-1D9D-4B3E-8B5D-B81561D63BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7237A411-1D9D-4B3E-8B5D-B81561D63BC4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7237A411-1D9D-4B3E-8B5D-B81561D63BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7237A411-1D9D-4B3E-8B5D-B81561D63BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7237A411-1D9D-4B3E-8B5D-B81561D63BC4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD7DBF61-B88C-4D03-8F74-F3883ED25971}
+	EndGlobalSection
+EndGlobal
