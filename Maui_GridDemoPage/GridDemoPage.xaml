@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Maui_GridDemoPage.GridDemoPage"
+             Title="GridDemoPage">
+    <Grid RowDefinitions=".2*,.8*"
+          ColumnDefinitions="10,*">
+        <!--<Grid.RowDefinitions>
+            <RowDefinition Height=".2*"></RowDefinition>
+            <RowDefinition Height=".8*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>-->
+        <Button Text="Click me!" HeightRequest="100">
+            </Button>
+        <Button Text=".NET MAUI" Grid.Row="1" Grid.Colum="0"
+                Grid.ColumnSpan="2"/>
+    </Grid>
+</ContentPage>
