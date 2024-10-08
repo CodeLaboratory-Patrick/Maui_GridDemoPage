@@ -245,6 +245,8 @@ In this layout:
 
 In .NET MAUI, the **Grid** layout uses **RowDefinition** and **ColumnDefinition** to define the structure of rows and columns. The **Height** property of **RowDefinition** determines how each row is sized. The `Height` can be set to different types of values, the most common being **Auto** and **Star (\*)**. Understanding these two options is crucial to creating flexible and responsive layouts.
 
+![Screenshot 2024-10-08 at 7 56 02 PM](https://github.com/user-attachments/assets/2842da7e-4d08-4d41-b8e2-972a05ca98df)
+
 ### RowDefinition Height="Auto"
 
 - **`Height="Auto"`** means that the **height of the row** will be automatically determined based on the content inside the row. The row will take up just enough space to fit its contents.
@@ -309,8 +311,6 @@ In this example:
 - **Height="*"** is suitable for rows that should **take up the remaining space** on the screen, ensuring that the layout is distributed evenly. It is often used for main content areas that should expand and fill the screen.
 
 ### When to Use Height="Auto" and Height="*"
-
-![Screenshot 2024-10-08 at 7 56 02 PM](https://github.com/user-attachments/assets/8e4016a6-0bd9-43ba-be97-7ae95d204b59)
 
 - **Height="Auto"** should be used for rows where the content size is unpredictable or minimal. For example, when placing a **title label** or **buttons** that should not take up unnecessary space.
 - **Height="*"** is more appropriate for rows that need to **fill the remaining space** on the screen, such as the main content area of the page. This ensures that the layout looks well-balanced across different screen sizes.
