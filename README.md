@@ -343,6 +343,9 @@ This structure allows the **Header** and **Footer** to maintain their natural si
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - Grid](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/grid)
 - [Xamarin Grid Layout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/grid)
+- https://www.codeproject.com/Articles/1227733/Xamarin-Notes-Xamarin-Forms-Layouts
+- https://askxammy.com/working-with-gridlayout-in-xamarin-forms/
+
 
 
 # RowDefinition Height with Proportional Values in C# MAUI
@@ -430,5 +433,3 @@ This type of layout is useful for keeping the UI balanced, with enough emphasis 
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - Grid](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/grid)
 - [Xamarin Grid Layout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/grid)
-- https://www.codeproject.com/Articles/1227733/Xamarin-Notes-Xamarin-Forms-Layouts
-- https://askxammy.com/working-with-gridlayout-in-xamarin-forms/
