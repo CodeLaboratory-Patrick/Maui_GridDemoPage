@@ -4,6 +4,8 @@
 
 In .NET MAUI (Multi-platform App UI), **Grid** is a powerful and flexible layout container used to create a structure for arranging child elements in **rows and columns**. It is similar to an HTML table, where each element can occupy one or more cells. The Grid layout is ideal for designing complex UIs that require precise control over the positioning of elements, offering more versatility compared to simpler layouts like StackLayout.
 
+![Screenshot 2024-10-08 at 7 24 38 PM](https://github.com/user-attachments/assets/662b46b3-8b19-4a85-a627-88c856bbdf5f)
+
 ### Key Features of Grid
 
 - **Rows and Columns**: Grid allows the definition of multiple rows and columns. Elements can be positioned explicitly in a specific row and column, enabling developers to create intricate user interfaces.
@@ -424,3 +426,4 @@ This type of layout is useful for keeping the UI balanced, with enough emphasis 
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - Grid](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/grid)
 - [Xamarin Grid Layout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/grid)
+- https://www.codeproject.com/Articles/1227733/Xamarin-Notes-Xamarin-Forms-Layouts
