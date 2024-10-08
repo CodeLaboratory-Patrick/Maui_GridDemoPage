@@ -106,6 +106,8 @@ Although **Grid** provides greater flexibility, it is more computationally inten
 
 In .NET MAUI, **Grid** is a flexible layout container that allows developers to organize UI elements into rows and columns. Within a Grid, properties like **Grid.Row**, **Grid.Column**, and **Grid.ColumnSpan** help control the precise placement and behavior of these elements.
 
+![Screenshot 2024-10-08 at 7 52 07 PM](https://github.com/user-attachments/assets/29171036-b515-441e-a7f8-9137b72330cf)
+
 ### Grid.Row
 
 The **Grid.Row** property specifies the **row number** in which a UI element should be placed. The rows are zero-based, meaning that the first row is indexed as `0`, the second row as `1`, and so on. This property helps to arrange elements in specific rows within the Grid.
