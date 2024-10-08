@@ -310,6 +310,8 @@ In this example:
 
 ### When to Use Height="Auto" and Height="*"
 
+![Screenshot 2024-10-08 at 7 56 02 PM](https://github.com/user-attachments/assets/8e4016a6-0bd9-43ba-be97-7ae95d204b59)
+
 - **Height="Auto"** should be used for rows where the content size is unpredictable or minimal. For example, when placing a **title label** or **buttons** that should not take up unnecessary space.
 - **Height="*"** is more appropriate for rows that need to **fill the remaining space** on the screen, such as the main content area of the page. This ensures that the layout looks well-balanced across different screen sizes.
 
@@ -429,3 +431,4 @@ This type of layout is useful for keeping the UI balanced, with enough emphasis 
 - [Microsoft Learn - Grid](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/grid)
 - [Xamarin Grid Layout (similar principles apply to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/grid)
 - https://www.codeproject.com/Articles/1227733/Xamarin-Notes-Xamarin-Forms-Layouts
+- https://askxammy.com/working-with-gridlayout-in-xamarin-forms/
